@@ -1,8 +1,7 @@
 {
-  "buildCommand": "next build",
+  "buildCommand": "pnpm build",
   "outputDirectory": ".next",
   "installCommand": "pnpm install",
   "devCommand": "next dev",
-  "framework": "nextjs",
-  "nodeVersion": "22.x"
+  "framework": "nextjs"
 }
